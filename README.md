@@ -20,7 +20,7 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
+    <li><a href="17072026_report.html">(17/07/2026). Relatório do {{ page.website }}</a></li>
     <li><a href="/report_012/25022026_report.html">(25/02/2026). Relatório do {{ page.website }}</a></li>
   </ul>
 </details>
